@@ -1,0 +1,2 @@
+class Arrive < ApplicationRecord
+end

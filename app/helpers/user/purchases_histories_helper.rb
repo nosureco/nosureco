@@ -1,0 +1,2 @@
+module User::PurchasesHistoriesHelper
+end

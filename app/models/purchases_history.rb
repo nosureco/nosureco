@@ -1,0 +1,2 @@
+class PurchasesHistory < ApplicationRecord
+end
